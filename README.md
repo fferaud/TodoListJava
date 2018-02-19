@@ -1,7 +1,6 @@
-# GitLab du projet Java TodoList FERAUD Fabien et NOVELLON Florian
+# GitHub of JavaTodoList project by NOVELLON Florian and FERAUD Fabien
 
 ## To take this project
-`git clone git@gitlab.info-ufr.univ-montp2.fr:e20140028918/Todo
-ListJava.git`
+`git clone https://github.com/fferaud/TodoListJava.git`
 
 Thanks
